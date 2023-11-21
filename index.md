@@ -1,4 +1,4 @@
 ---
-My Journey in GitHub : Welcome to blog of Mr.Robot from Angolaaa.
+My Journey in GitHub : Welcome to blog in Mr.Robot from Angolaaa.
 ---
 
